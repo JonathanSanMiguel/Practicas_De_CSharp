@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectivaIF", "DirectivaIF\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraSelectivaSWITCH", "EstructuraSelectivaSWITCH\EstructuraSelectivaSWITCH.csproj", "{C1716A48-1624-49F1-BCDD-6B51B09839A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsctrucutraDoWhile", "EsctrucutraDoWhile\EsctrucutraDoWhile.csproj", "{7BCDC6CC-A670-4250-9726-A379AA40AB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraWhile", "EstructuraWhile\EstructuraWhile.csproj", "{F89F491D-A40F-4A06-897C-25EA6D312F31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{C1716A48-1624-49F1-BCDD-6B51B09839A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1716A48-1624-49F1-BCDD-6B51B09839A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1716A48-1624-49F1-BCDD-6B51B09839A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BCDC6CC-A670-4250-9726-A379AA40AB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCDC6CC-A670-4250-9726-A379AA40AB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCDC6CC-A670-4250-9726-A379AA40AB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCDC6CC-A670-4250-9726-A379AA40AB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89F491D-A40F-4A06-897C-25EA6D312F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89F491D-A40F-4A06-897C-25EA6D312F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89F491D-A40F-4A06-897C-25EA6D312F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89F491D-A40F-4A06-897C-25EA6D312F31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
